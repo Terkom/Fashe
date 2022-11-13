@@ -175,6 +175,7 @@
           "1480267833382-1": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/010.jpg",
               "heading": "Women Collection 2018",
               "heading_appear": "fadeInDown",
               "subheading": "New arrivals",
@@ -187,6 +188,7 @@
           "1480267833382-0": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/012.jpg",
               "heading": "Women Collection 2018",
               "heading_appear": "rollIn",
               "subheading": "New arrivals",
@@ -199,6 +201,7 @@
           "1507555687103": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/114.jpg",
               "heading": "Women Collection 2018",
               "heading_appear": "rotateInDownLeft",
               "subheading": "New arrivals",
@@ -218,64 +221,6 @@
           "autoplay": true,
           "autoplay_speed": "10000",
           "layout_slider": "slider-1"
-        }
-      },
-      "1503231244573": {
-        "type": "ad-banner",
-        "blocks": {
-          "1506803279562": {
-            "type": "image",
-            "settings": {
-              "link_text": "Dresses",
-              "link": "shopify:\/\/collections\/all"
-            }
-          },
-          "1506803308948": {
-            "type": "image",
-            "settings": {
-              "link_text": "Sunglasses",
-              "link": "shopify:\/\/collections\/all"
-            }
-          },
-          "1514473881970": {
-            "type": "image",
-            "settings": {
-              "link_text": "Watches",
-              "link": "shopify:\/\/collections\/all"
-            }
-          },
-          "1514473919786": {
-            "type": "image",
-            "settings": {
-              "link_text": "Footerwear",
-              "link": "shopify:\/\/collections\/all"
-            }
-          },
-          "1514473952044": {
-            "type": "image",
-            "settings": {
-              "link_text": "Bags",
-              "link": "shopify:\/\/collections\/all"
-            }
-          },
-          "1514474049400": {
-            "type": "image",
-            "settings": {
-              "link_text": "Accessories",
-              "link": "shopify:\/\/collections\/all"
-            }
-          }
-        },
-        "block_order": [
-          "1506803279562",
-          "1506803308948",
-          "1514473881970",
-          "1514473919786",
-          "1514473952044",
-          "1514474049400"
-        ],
-        "settings": {
-          "feature_advert_design": "feature-advert6"
         }
       },
       "1504781997946": {
@@ -331,36 +276,11 @@
           "insta_images_fetch": "10",
           "no_of_products": "5"
         }
-      },
-      "1514553331574": {
-        "type": "product-deals",
-        "blocks": {
-          "1514553331574-0": {
-            "type": "deal",
-            "settings": {
-              "product_deal": "boxy2-t-shirt-with-roll-sleeve",
-              "custom_image": true,
-              "expiry_deal": "2019\/01\/01"
-            }
-          }
-        },
-        "block_order": [
-          "1514553331574-0"
-        ],
-        "settings": {
-          "collection_layout": "deals-layout1",
-          "heading": "The Beauty",
-          "subheading": "Lookbook",
-          "link_text": "View Collection",
-          "link": "shopify:\/\/collections\/all"
-        }
       }
     },
     "content_for_index": [
       "1480267833382",
-      "1503231244573",
       "1504983008053",
-      "1514553331574",
       "1508329681974",
       "1504781997946"
     ]
